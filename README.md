@@ -26,7 +26,7 @@ Bem-vindo ao Jogo de Plataforma com Reconhecimento de Mão, uma emocionante expe
 
     bash
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/RonnyRocke/Jogo_de_Plataforma_Com_Reconhecimento_De_Mao.git)
 cd nome-do-repositorio
 
 Instale as Dependências:
